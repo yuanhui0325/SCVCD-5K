@@ -9,3 +9,24 @@
 **/*.so
 **/*.exe
 **/*.dll
+# deep learning weights / checkpoints
+**/checkpoints/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+
+# generated outputs/logs
+*.yuv
+*.bin
+*.dat
+*.log
+
+# build artifacts
+**/build/
+**/bin/
+**/*.o
+**/*.a
+**/*.so
+**/*.exe
+**/*.dll
