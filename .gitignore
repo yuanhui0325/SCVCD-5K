@@ -1,0 +1,11 @@
+*.yuv
+*.bin
+*.dat
+*.log
+**/build/
+**/bin/
+**/*.o
+**/*.a
+**/*.so
+**/*.exe
+**/*.dll
